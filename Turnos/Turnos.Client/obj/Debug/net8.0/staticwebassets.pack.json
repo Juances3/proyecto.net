@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\juan0\\Documents\\materias Poli\\Profundizacion1\\proyecto blazor\\turnos\\Turnos\\Turnos\\Turnos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\juan0\\Documents\\materias Poli\\Profundizacion1\\proyecto blazor\\turnos\\Turnos\\Turnos\\Turnos.Client\\obj\\Debug\\net8.0\\compressed\\zipeqaiyn7.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\juan0\\Documents\\materias Poli\\Profundizacion1\\proyecto blazor\\turnos\\Turnos\\Turnos\\Turnos.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\juan0\\Documents\\materias Poli\\Profundizacion1\\proyecto blazor\\turnos\\Turnos\\Turnos\\Turnos.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Turnos.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Turnos.Client.props",
+      "PackagePath": "build\\Turnos.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Turnos.Client.props",
+      "PackagePath": "buildMultiTargeting\\Turnos.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Turnos.Client.props",
+      "PackagePath": "buildTransitive\\Turnos.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

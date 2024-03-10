@@ -1,0 +1,9 @@
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\Turnos.Client.csproj.AssemblyReference.cache
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\Turnos.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\Turnos.Client.AssemblyInfoInputs.cache
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\Turnos.Client.AssemblyInfo.cs
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\Turnos.Client.csproj.CoreCompileInputs.cache
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\Turnos.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\Turnos.Client.dll
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\refint\Turnos.Client.dll
+C:\profundizacion1\proyecto blazor\turnos\Turnos\Turnos\Turnos.Client\obj\Release\net8.0\Turnos.Client.pdb
